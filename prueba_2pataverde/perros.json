@@ -1,0 +1,26 @@
+[
+  {
+    "raza": "cafe",
+    "vacunado": true,
+    "disponibleAdopcion": false,
+    "nombre": "leoncio",
+    "edad": 2,
+    "peso": 4.0
+  },
+  {
+    "raza": "carei",
+    "vacunado": false,
+    "disponibleAdopcion": false,
+    "nombre": "estrella",
+    "edad": 5,
+    "peso": 4.2
+  },
+  {
+    "raza": "blanco con negro",
+    "vacunado": false,
+    "disponibleAdopcion": true,
+    "nombre": "negrina",
+    "edad": 4,
+    "peso": 4.0
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "exterior": true,
+    "nombre": "manchita",
+    "edad": 10,
+    "peso": 4.2
+  },
+  {
+    "exterior": true,
+    "nombre": "gatuna",
+    "edad": 7,
+    "peso": 5.0
+  }
+]
